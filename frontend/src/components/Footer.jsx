@@ -23,7 +23,7 @@ const Footer = () => {
   return (
 <footer className="footer p-10 bg-base-200 text-base-content">
   <aside>
-    <h2 className='text-3xl'>codeteria</h2>
+    <h2 className='text-3xl'>ankita3</h2>
     <p>Providing reliable tech since 2024</p>
   </aside> 
   <nav>
@@ -36,8 +36,8 @@ const Footer = () => {
   </nav>
   <nav>
     <h6 className="footer-title">Support</h6> 
-    <a className="link link-hover">codeteria@test.com</a>
-    <a className="link link-hover">+99 999 99</a>
+    <a className="link link-hover">p.ankita10101.com</a>
+    <a className="link link-hover">+91-95693784</a>
   </nav> 
   <form onSubmit={handleSubscribe}>
     <h6 className="footer-title">Newsletter</h6> 
