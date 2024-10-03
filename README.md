@@ -1,1 +1,1 @@
-appdevai.shop
+https://www.appdevai.shop/
